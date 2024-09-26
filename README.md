@@ -8,7 +8,7 @@ Learning xml
 - R Programming
 - Python Programming
 - Dashboard
-- STats & ML
+- Stats & ML
 
 ## My Portfolio
 
